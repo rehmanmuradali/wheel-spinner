@@ -1,3 +1,5 @@
 rootProject.name='WheelSpinner'
 include ':app'
 include ':app:spinner'
+include ':mylibrary'
+include ':wheelspinner'

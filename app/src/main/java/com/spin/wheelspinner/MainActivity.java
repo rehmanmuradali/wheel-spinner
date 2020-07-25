@@ -1,15 +1,11 @@
 package com.spin.wheelspinner;
 
-import android.media.Image;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
-import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-import com.spin.spinner.WheelSpinner;
 
 import java.util.ArrayList;
 import java.util.List;
