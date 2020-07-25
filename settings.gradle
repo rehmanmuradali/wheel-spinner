@@ -1,0 +1,3 @@
+rootProject.name='WheelSpinner'
+include ':app'
+include ':app:spinner'

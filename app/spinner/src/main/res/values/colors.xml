@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <!--App Colors-->
+    <color name="light_purple">#E336FE</color>
+    <color name="dark_purple">#9928B0</color>
+    <color name="dark_charcoal">#2E2F4B</color>
+    <color name="grey">#696177</color>
+    <color name="text_hint_grey">#8A849B</color>
+
+
+    <!--Misc-->
+    <color name="text_view_background">#26212E</color>
+    <color name="green">#00BC29</color>
+    <color name="light_green">#a4c639</color>
+    <color name="red">#FF5B00</color>
+    <color name="light_red">#f58442</color>
+    <color name="dark_red">#f70505</color>
+    <color name="dark_green">#02ab2f</color>
+    <color name="dialog_background">#400046</color>
+    <color name="dialog_stroke">#E3C63A</color>
+    <color name="color_buy_spin">#F7F107</color>
+    <color name="color_black">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+</resources>
