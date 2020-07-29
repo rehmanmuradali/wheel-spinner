@@ -1,3 +1,5 @@
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Wheel%20Spinner-green.svg?style=flat )]( https://android-arsenal.com/details/1/8139 )
+
 # Wheel Spinner
 
 ## Demo
